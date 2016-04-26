@@ -12,6 +12,8 @@ check
 tracker
 
 # standard libraries
+jquery
+underscore
 less
 fourseven:scss
 
@@ -24,14 +26,12 @@ mongo
 aldeed:simple-schema
 aldeed:collection2
 dburles:collection-helpers
-reywood:publish-composite  # not sure we need this
+reywood:publish-composite
 mdg:validated-method
 mdg:validation-error
-autopublish             # Publish all data to the clients (for prototyping) TODO: remove later
-insecure                # Allow all DB writes from clients (for prototyping) TODO: remove later
 
 # i18n
-#tap:i18n # TODO: uncomment later for internationalization
+tap:i18n
 
 # accounts
 accounts-password
@@ -39,12 +39,12 @@ accounts-password
 # mobile
 crosswalk
 mobile-experience
-#chriswessels:hammer # not sure normal hammer might be more useful or might come with hybrid dev env
+chriswessels:hammer
 
 # production
 #juliancwirko:postcss@1.0.0-beta.11
 #standard-minifier-js
-#ddp-rate-limiter
+ddp-rate-limiter
 #app-prod-security
 
 # rest apis

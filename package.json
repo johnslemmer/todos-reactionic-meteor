@@ -1,5 +1,5 @@
 {
-  "name": "myreactionic",
+  "name": "ReactIonicTodos",
   "private": true,
   "scripts": {
     "start": "meteor run",
@@ -18,7 +18,7 @@
     "react-dom": "^15.0.0",
     "react-router": "^2.0.0",
     "react-static-container": "^1.0.0",
-    "reactionic": "git://github.com/johnslemmer/reactionic.git"
+    "reactionic": "0.2.1"
   },
   "devDependencies": {
     "eslint": "^2.7.0",

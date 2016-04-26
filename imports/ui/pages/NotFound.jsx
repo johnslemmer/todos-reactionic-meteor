@@ -2,7 +2,7 @@ import React from 'react';
 import { IonContent } from 'reactionic';
 
 export default (props) => (
-  <IonContent customClasses="" {...props}>
-    <h2>Hello World!</h2>
+  <IonContent {...props}>
+    <h1>Page Not Found</h1>
   </IonContent>
 );
