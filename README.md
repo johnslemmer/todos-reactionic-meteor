@@ -34,7 +34,7 @@ Then after cloning this git repository...
 
 * I have a bug where the IonContent is not setting bar-subheader classname correctly so that the content is partially sitting under the subheader bar.  As best as I can tell right now the componentWillUnmount method of the page we are leaving is getting called after the componentWillMount method of the page we are entering is called.  I think this might actually be a React bug, if not then
 it is something that might need to be fixed in @reactionic.  Anyone have any
-thoughts?
+thoughts?  See [reactionic/reactionic#31](https://github.com/reactionic/reactionic/issues/31)
 * Finish UI functionality (things are really only readable at the moment)
   * Be able to add todos
   * login as a user
