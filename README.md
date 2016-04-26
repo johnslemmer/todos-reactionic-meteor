@@ -12,21 +12,10 @@ NOTE: for some reason tests were really screwing things up so I just removed all
 There is still some things to do to have full functionality as well as to make
 things look pretty.
 
-At the moment this is dependent on the [johnslemmer/reactionic fork](https://github.com/johnslemmer/reactionic)
-
 ## Installation
 
-In a separate directory clone  my [reactionic fork](https://github.com/johnslemmer/reactionic) and run...
+After cloning this git repository...
 
-    npm install
-    npm run-script build
-
-Then after cloning this git repository...
-
-    mkdir node_modules
-    cd node_modules
-    ln -s ../../reactionic      # or whatever directory you put it in
-    cd ..
     npm install
     meteor run
 
