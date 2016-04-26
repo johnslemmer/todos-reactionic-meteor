@@ -4,7 +4,7 @@
 
 I like what @pors and [reactionic](http://reactionic.github.io/) are trying to do.  I've have been working on trying to get things upgraded to React 15/Meteor 1.3 and at the same time have been tinkering with trying to make this app at the same time.
 
-As much as possible I have tried to just copy over Meteor's todos-react example
+As much as possible I have tried to just copy over Meteor's [module-todos-react](https://github.com/meteor/module-todos-react) example
 and just change as little as possible except the UI.
 
 NOTE: for some reason tests were really screwing things up so I just removed all that stuff for now.
