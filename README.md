@@ -2,7 +2,7 @@
 
 ## React and Ionic: a Perfect Match
 
-I like what @pors and [reactionic](http://reactionic.github.io/) are trying to do.  I've have been working on trying to get things upgraded to React 15 and at the same time have been tinkering with trying to make this app at the same time.
+I like what @pors and [reactionic](http://reactionic.github.io/) are trying to do.  I've have been working on trying to get things upgraded to React 15/Meteor 1.3 and at the same time have been tinkering with trying to make this app at the same time.
 
 As much as possible I have tried to just copy over Meteor's todos-react example
 and just change as little as possible except the UI.
