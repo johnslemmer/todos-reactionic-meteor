@@ -1,6 +1,6 @@
 # TODOs React-Ionic-Meteor Example App
 
-## React and Ionic: a Perfect Match
+## Introduciton
 
 I like what @pors and [reactionic](http://reactionic.github.io/) are trying to do.  I've have been working on trying to get things upgraded to React 15/Meteor 1.3 and at the same time have been tinkering with trying to make this app at the same time.
 
@@ -13,6 +13,11 @@ There is still some things to do to have full functionality as well as to make
 things look pretty.
 
 At the moment this is dependent on the [johnslemmer/reactionic fork](https://github.com/johnslemmer/reactionic)
+
+## Installation
+
+    npm install
+    meteor run
 
 ## TODOs
 
