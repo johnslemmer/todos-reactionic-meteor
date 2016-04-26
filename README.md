@@ -16,6 +16,17 @@ At the moment this is dependent on the [johnslemmer/reactionic fork](https://git
 
 ## Installation
 
+In a separate directory clone  my [reactionic fork](https://github.com/johnslemmer/reactionic) and run...
+
+    npm install
+    npm run-script build
+
+Then after cloning this git repository...
+
+    mkdir node_modules
+    cd node_modules
+    ln -s ../../reactionic      # or whatever directory you put it in
+    cd ..
     npm install
     meteor run
 
